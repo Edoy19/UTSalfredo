@@ -54,7 +54,7 @@ function EditProfileScreen({ navigation }) {
                         <View style={style.inputContainer}>
                             <TextInput
                                 style={[style.input, { fontWeight: 'bold' }]}
-                                value='Idohutagalung'
+                                value='Alfredo'
                                 placeholderTextColor="gray" />
                         </View>
                     </View>
